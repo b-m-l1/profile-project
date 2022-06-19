@@ -1,4 +1,7 @@
 <style>
+body {
+  background-color: #000000;
+}
 
 h1 {
   color: navajowhite;
@@ -52,9 +55,4 @@ ol {
   margin-left: 20px;
   margin-right: 20px;
 }
-
-body {
-  background-color: #000000;
-}
-
 </style>
