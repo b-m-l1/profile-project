@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: black;
 }
 
 h1 {
@@ -53,4 +53,28 @@ ol {
   font-size: 20px;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+a {
+ font-family: verdana
+}
+
+a:link {
+  color: ghostwhite;
+  text-decoration-color: ghostwhite;
+}
+
+a:visited {
+  color: gainsboro;
+  text-decoration-color: gainsboro;
+}
+
+a:hover {
+  color: honeydew;
+  text-decoration-color: gainsboro;
+}
+
+a:active {
+  color: ivory;
+  text-decoration-color: ivory;
 }
